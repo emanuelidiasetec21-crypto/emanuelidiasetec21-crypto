@@ -28,4 +28,32 @@ Atualmente, estou cursando o Ensino Médio e estudando diferentes conteúdos rel
 
 ---
 
-** Obrigada por visitar meu perfil! **
+
+## Demonstração de Markdown
+
+**Este texto está em negrito.**
+
+*Este texto está em itálico.*
+
+~~Este texto está riscado.~~
+
+`Este é um exemplo de código.`
+
+> O Markdown permite organizar e destacar informações de diferentes maneiras!
+
+### Exemplo de tabela
+
+| Formatação | Utilização |
+|---|---|
+| **Negrito** | Destacar palavras |
+| *Itálico* | Dar ênfase |
+| Listas | Organizar informações |
+| Links | Acessar páginas |
+
+### Links úteis
+
+[Guia de Markdown](https://www.markdownguide.org/)
+
+---
+
+**Obrigada por visitar meu perfil!** 
